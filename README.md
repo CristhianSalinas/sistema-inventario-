@@ -4,3 +4,4 @@ Proyecto para gestionar el inventario de productos de una empresa.
 - Registrar productos
 - Consultar productos
 - Actualizar productos
+Equipo de Desarrollo de Software
